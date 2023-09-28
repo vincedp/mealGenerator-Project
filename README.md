@@ -1,1 +1,2 @@
-# mealGenerator-Project
+# mealGenerator-Project 
+Meal generator
